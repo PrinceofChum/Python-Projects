@@ -1,6 +1,6 @@
 # Python-Projects
 
-## What here is
+## What I did.
 
 ### Bank Account Manager
 
