@@ -14,3 +14,8 @@
 ### Feet To Meter Converter
 
     -This app will covert feet into meter.
+
+### Currency Converter
+
+    - this works by giving the resulting amount per unit which is given.
+
