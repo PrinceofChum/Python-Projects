@@ -7,6 +7,6 @@ def randompassword():
     return ''.join(random.choice(chars) for x in range(size,15))
 
 n = 0
-while n < 50:
+while n < 10:
     print(randompassword())
     n=n+1   
