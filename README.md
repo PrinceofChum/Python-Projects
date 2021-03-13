@@ -19,3 +19,11 @@
 
     - this works by giving the resulting amount per unit which is given.
 
+### Random Password Genarator [Without UI]
+
+    - generates random passwords based on needs.
+
+#### Loan Calculator
+
+    - Calculates Monthly payment and Total payment according to  Annual Interest Rate, Number of year and Total amount.
+
