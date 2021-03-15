@@ -27,3 +27,6 @@
 
     - Calculates Monthly payment and Total payment according to  Annual Interest Rate, Number of year and Total amount.
 
+#### Tip Calculator
+
+    - Calculates the tip amount and gives final bill based on given tip percentage.
