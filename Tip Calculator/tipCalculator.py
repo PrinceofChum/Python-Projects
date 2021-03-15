@@ -82,6 +82,5 @@ class TipCalculator():
         self.meal_cost.set("")
         self.tip.set("")
 
-
         
 TipCalculator()
